@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/transparent_100"
+    >
+    <ImageButton
+        android:id="@+id/sjj_down_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="@+id/sjj_cent_button"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="134dp"
+        android:layout_toLeftOf="@+id/sjj_cent_button"
+        android:background="@color/transparent_100"
+        android:src="@drawable/sjj_down" />
+
+    <ImageButton
+        android:id="@+id/sjj_up_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/sjj_cent_button"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="0dp"
+        android:layout_toRightOf="@+id/sjj_cent_button"
+        android:background="@color/transparent_100"
+        android:src="@drawable/sjj_up" />
+
+    <ImageButton
+        android:id="@+id/sjj_cent_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="134dp"
+        android:background="@color/transparent_100"
+        android:src="@drawable/sjj_cent" />
+
+    <TextView
+        android:id="@+id/sjj_connect_text_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="14dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sjj_connect_text_id"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="开关控制"
+        android:textSize="20dp" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="23dp"
+        android:layout_marginTop="150dp"
+        android:text="LED开关"
+        android:textSize="18dp" />
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="203dp"
+        android:text="近红外开关"
+        android:textSize="18dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="350dp"
+        android:background="#e0e0e0"
+        android:orientation="horizontal"></LinearLayout>
+
+    <TextView
+        android:layout_height="120dp"
+        android:layout_width="wrap_content"
+        android:textSize="18dp"
+        android:layout_marginTop="370dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/Test_Description"
+        />
+
+
+</RelativeLayout>
+

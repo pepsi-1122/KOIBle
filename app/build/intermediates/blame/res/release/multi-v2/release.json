@@ -1,0 +1,117 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "22,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "1003,1061",
+                        "endColumns": "57,55",
+                        "endOffsets": "1056,1112"
+                    }
+                },
+                {
+                    "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "13",
+                        "endColumns": "24",
+                        "endOffsets": "648"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "428",
+                        "endLines": "21",
+                        "endColumns": "24",
+                        "endOffsets": "998"
+                    }
+                },
+                {
+                    "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\values\\clr.xml",
+                    "from": {
+                        "startLines": "9,2,3,4,6,7,13,12,8",
+                        "startColumns": "4,4,4,4,8,4,4,4,4",
+                        "startOffsets": "321,59,99,139,189,232,426,372,276",
+                        "endColumns": "39,36,36,36,43,40,51,50,41",
+                        "endOffsets": "356,91,131,171,224,268,473,418,313"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,94,131,168,205,244,284,336,387",
+                        "endColumns": "38,36,36,36,38,39,51,50,40",
+                        "endOffsets": "89,126,163,200,239,279,331,382,423"
+                    }
+                },
+                {
+                    "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "253,589,768",
+                        "endLines": "12,17,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "548,746,855"
+                    },
+                    "to": {
+                        "startLines": "61,68,71",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2936,3232,3392",
+                        "endLines": "67,70,72",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "3227,3387,3478"
+                    }
+                },
+                {
+                    "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\values\\drawables.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "51",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "1117",
+                        "endColumns": "61",
+                        "endOffsets": "1174"
+                    }
+                },
+                {
+                    "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "43,37,20,36,4,3,9,14,15,16,18,5,47,45,10,11,12,27,28,35,29,32,33,30,44,13,23,22,24,17",
+                        "startColumns": "4,4,4,4,4,4,12,4,4,4,4,4,3,4,4,4,4,4,4,4,4,5,5,4,8,4,4,8,4,4",
+                        "startOffsets": "1649,1438,757,1338,106,56,231,489,533,580,673,159,1843,1802,298,343,399,1021,1067,1297,1116,1208,1249,1159,1763,445,862,804,936,626",
+                        "endLines": "43,41,20,36,4,3,9,14,15,16,18,5,48,46,10,11,12,27,28,35,29,32,33,30,44,13,23,22,24,17",
+                        "endColumns": "109,53,37,99,52,49,74,43,46,45,82,52,9,9,44,55,45,45,48,40,42,40,41,42,42,43,73,61,59,46",
+                        "endOffsets": "1754,1643,790,1433,154,101,293,528,575,621,751,207,1880,1839,338,394,440,1062,1111,1333,1154,1243,1285,1197,1797,484,931,857,991,668"
+                    },
+                    "to": {
+                        "startLines": "25,26,31,32,33,34,35,36,37,38,39,40,41,43,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1179,1289,1499,1537,1637,1690,1740,1807,1851,1898,1944,2027,2080,2122,2164,2209,2265,2311,2357,2406,2447,2490,2530,2571,2614,2653,2697,2771,2829,2889",
+                        "endLines": "25,30,31,32,33,34,35,36,37,38,39,40,42,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60",
+                        "endColumns": "109,53,37,99,52,49,66,43,46,45,82,52,9,9,44,55,45,45,48,40,42,39,40,42,38,43,73,57,59,46",
+                        "endOffsets": "1284,1494,1532,1632,1685,1735,1802,1846,1893,1939,2022,2075,2117,2159,2204,2260,2306,2352,2401,2442,2485,2525,2566,2609,2648,2692,2766,2824,2884,2931"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Tue Dec 17 09:41:48 GMT+08:00 2019
+base.0=E\:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

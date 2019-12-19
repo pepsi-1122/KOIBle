@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\menu_gatt_services.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_sjj_bk.png.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\drawable-xxhdpi\\sjj_bk.png"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\layout_listitem_device.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\menu_scan_menu.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\menu\\scan_menu.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\layout_set.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\layout\\set.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\layout_check_device.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\layout\\check_device.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_sjj_up.png.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\drawable-xxhdpi\\sjj_up.png"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\layout_calibration_device.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\layout\\calibration_device.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_sjj_down.png.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\drawable-xxhdpi\\sjj_down.png"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\menu_set_menu.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\menu\\set_menu.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\layout_choseitemfor_device.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\layout\\choseitemfor_device.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_sjj_cent.png.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\drawable-xxhdpi\\sjj_cent.png"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\layout_list_device.xml.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\layout\\list_device.xml"
+    },
+    {
+        "merged": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher1.png.flat",
+        "source": "E:\\IFutuer\\KOI3\\KOI3_App\\KOIBle\\app\\src\\main\\res\\drawable\\ic_launcher1.png"
+    }
+]
